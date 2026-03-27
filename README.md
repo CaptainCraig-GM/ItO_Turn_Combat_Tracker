@@ -6,6 +6,9 @@ Little lists of random names and items to find
 
 Toggle to a Combat Tracker that simplifies tracking HP on enemies (if you set it up before hand :P )
 
+~-----~ the README.txt  has more detailed instructions  ~-----~
+
+
 I am a VERY amateur, self taught coder so please be kind. I'm moving on to bigger, better and more complicated garbage so feedback is not super important to me, but possitive reinforcement is always appreciated ! 
 
 If you want to use / change / copy / give / claim / extend / reduce go right ahead. 
