@@ -1,0 +1,5 @@
+Cyborg,handsome,8,2,14,7,8,1,d8 weapon,Ignore Critical Damage- Fight until 0 Str,CD- Remove a limb
+Amber Golem,bisected,12,2,18,7,2,2,d8 pound,d6b swipe,immune to nonmagical attacks charm sleep hold
+blood demon,bulbous,2,0,3,11,3,1,d4 bonk,walking bags of blood,oCD- explode in bloody shower,->10ft pushback drop held items and covered in blood
+Jelly Spider,floppy,2,0,4,12,4,2,d4 bite,d4 bites,when hit start combining,add str scores when combining
+hagfish,scrawny,6,0,12,14,4,1,d8 bite,CD devour in black hole mouth
